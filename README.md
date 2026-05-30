@@ -367,16 +367,19 @@ The goal was to identify customer behavior patterns and improve marketing effect
 
 ###### 
 
-### **📊 Project Walkthrough Video**- **\[Watch Dashboard Demo](Dashboard/Dashboard.mp4)**
+### **📊 Project Walkthrough Video**- 
+https://github.com/user-attachments/assets/4b96fe60-7add-4b86-9b02-53dbd111f423
 
 
 
-### 📄 **Project Presentation-(Presentation/Project\_Presentation.pdf)**
+
+### 📄 **Project Presentation-[Marketing Analytics Project.pdf](https://github.com/user-attachments/files/28421876/Marketing.Analytics.Project.pdf)**
 
 ### 
 
 ### **🖼️ Presentation Preview-**
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/84c3137c-7732-42af-8f22-9845d92634cb" />
 
 
 
