@@ -1,2 +1,393 @@
-# Marketing-Campaign-Performance-Analytics
-Marketing campaign performance analytics project | Uses Power BI for customer segmentation, purchase behavior, and revenue analysis | Identifies high-value customers, top products, and campaign effectiveness | Generates actionable business insights
+# **📢 Marketing Campaign Performance Analytics**
+
+
+
+## **1. About Project 📌**
+
+
+
+This project analyzes customer demographics, purchasing behavior, product preferences, Offer Acceptance and marketing campaign performance across multiple countries.
+
+
+
+The objective is to understand customer segments, identify high-value markets, evaluate product spending patterns, and measure campaign effectiveness to support data-driven marketing decisions and business growth.
+
+
+
+## **2. Project Domain**
+
+
+
+Marketing Campaign Performance Analytics 
+
+
+
+## **3. Dataset Information**
+
+* Customer Demographics
+* Purchase Data
+* Product Spending Data
+* Marketing Campaign Data
+
+
+
+## **4. Business Problem Statement**
+
+
+
+**The retail company needed marketing analytics to understand:**
+
+
+
+1. Which customer segments generate the most value?
+2. Which countries contribute the highest sales and engagement?
+3. Which products drive maximum revenue?
+4. Which marketing campaigns perform best?
+5. How purchasing behavior differs across customer groups?
+6. Where future growth opportunities exist?
+
+
+
+The goal was to identify customer behavior patterns and improve marketing effectiveness.
+
+
+
+## **5. Business Area Covered**
+
+
+
+1. Customer Demographics Analysis
+2. Purchase Behavior Analysis
+3. Product Performance Analysis
+4. Campaign Performance Analysis
+5. Customer Segmentation Analysis
+6. Revenue Contribution Analysis
+
+
+
+## **6. Business Metrics**
+
+
+
+* ### &#x20;**Customer Metrics**
+1. Total Customers
+2. Customers by Country, Age Group, Education Level 
+3. Average Income by Age Group
+
+
+
+* ### &#x20;**Purchase Metrics**
+1. Total Purchases
+2. Purchases by Type, Country, Age Group
+
+
+
+* ### &#x20;**Product Metrics**
+1. Total Product Spend
+2. Product Spend by Country, Age Group
+
+
+
+* ### &#x20;**Campaign Metrics**
+1. Campaign Offer Acceptance
+2. Campaign Performance by Country, Age Group
+
+
+
+## **7. Analysis Process**
+
+1. Data Collection: Import Marketing dataset into Power BI
+2. Data Transformation: Perform ETL using Power Query.
+3. Data Processing: Data type corrections, Missing value checks, Data profiling, Promoted Header
+4. Data Modeling Implementation
+5. DAX Measures Creation: Create KPIs and analytical measures.
+6. Dashboard Development: Build interactive reports and visualizations
+7. Business Storytelling \& Data Driven Insight Generation
+8. Stakeholder Reporting: Present findings and recommendations.
+
+
+
+## **8. Tools Used**
+
+* **Excel →** Data validation and preparation
+* **Power Query →** ETL and transformation
+* **Power BI →** Dashboard development, DAX, visualization
+* **PowerPoint →** Business reporting and presentation
+
+
+
+## **9. Data Driven Insights**
+
+
+
+### **🌍 1. Spain Emerged as the Strongest Market**
+
+
+
+* Spain consistently outperformed all other countries across customer base, purchases, product spending, and campaign engagement.
+
+
+
+* Key Metrics:
+
+  1. Total Customers → 1,095
+  2. Total Purchases → 21,872
+  3. Product Spend → $662,220
+  4. Campaign Acceptances → 355
+
+
+
+* Mexico showed minimal contribution across all business metrics.
+
+
+
+👉 **Business Insight:** Spain is the company's most valuable market and contributes the majority of customer activity and revenue while Mexico shows minimal contribution.
+
+
+
+### **👥 2. Mid Adults (**age group-35–44**) Drive Customer Value**
+
+
+
+* Customer analysis showed strong concentration within the 35–44 age group.
+
+
+
+* Key Metrics:
+
+  1. Customers → 746
+  2. Purchases → 14,890
+  3. Product Spend → $402,035
+  4. Campaign Acceptances → 198
+
+
+
+* This 35–44 age group consistently ranked highest across engagement and spending metrics.
+
+
+
+👉 **Business Insight**: Mid Adults represent the company's most valuable customer segment.
+
+
+
+### **💰 3. Higher Income Customers Generate Greater Spending**
+
+
+
+* Income analysis revealed increasing purchasing power with age.
+
+
+
+* Highest Average Income:
+
+  1. Senior (65+) → $64,562
+  2. Pre-Senior (55–64) → $56,995
+
+
+
+* Lowest Average Income:
+
+  1. Early Adult (25–34) → $45,783
+
+
+
+👉 **Business Insight:** Older customer segments have stronger purchasing power and contribute higher spending.
+
+
+
+### **🛒 4. Store Purchases Remain the Dominant Purchase Channel**
+
+
+
+* Purchase behavior analysis showed customers still prefer physical store purchases.
+
+
+
+* Purchase Distribution:
+
+  1. Store Purchases → 12,970
+  2. Web Visits → 11,909
+  3. Web Purchases → 9,150
+  4. Catalog Purchases → 5,963
+  5. Deal Purchases → 5,208
+
+
+
+**👉 Business Insight:** Store purchases remain the primary transaction channel, while digital engagement continues to grow.
+
+
+
+### **💰 5. High Revenue Generated Products**
+
+
+
+* Product spending analysis revealed significant concentration among a few categories.
+
+
+
+* Revenue Generated by Product Categories(Descending Order):
+
+  1. Wines-$680,816
+  2. Meat Products-$373,968
+  3. Gold Products-$98,609 
+  4. Fish Products-$84,057
+  5. Sweets-$60,621
+  6. Fruits-$58,917
+
+
+
+**👉 Business Insight:** Revenue distribution is heavily skewed toward a few dominant categories, highlighting concentration risk and the need for broader category diversification to stabilize long-term growth.
+
+
+
+### **📈 6. Campaign 4 Delivered the Best Performance**
+
+
+
+* Campaign effectiveness analysis showed '**Campaign 4'** achieved the highest customer response.
+
+
+
+* Campaign Results:
+
+  1. Campaign 4 → 167 acceptances (High)
+  2. Campaign 3 → 163 acceptances
+  3. Campaign 5 → 163 acceptances
+  4. Campaign 2 → 30 acceptances (Weakest)
+
+
+
+**👉 Business Insight:** Campaign 4 resonated most effectively with customers, while Campaign 2 underperformed significantly.
+
+
+
+### **👨‍👩‍👧 7. Family-Oriented Customers Dominate the Customer Base**
+
+
+
+* Marital status and household analysis revealed a strong family-focused customer profile.
+
+
+
+* Key Findings:
+
+  1. Married Customers → 864 (largest group)
+  2. Together → 580
+  3. Single → 480
+
+
+
+* Mid Adults (Age Group-35–44) reported the highest presence of children and teenagers at home.
+
+
+
+**👉 Business Insight:** Family-oriented households represent the largest customer segment.
+
+
+
+
+
+## **10. Project Outcome**
+
+
+
+* ### **Key Outcomes**
+
+  1. Identified Spain as the strongest market.
+  2. Identified Mid Adults (35–44) as the highest-value customer segment.
+  3. Determined Wines and Meat Products as major revenue drivers.
+  4. Measured campaign effectiveness across customer groups.
+  5. Identified Campaign 4 as the best-performing marketing campaign.
+  6. Discovered strong family-oriented customer demographics.
+
+
+
+**👉 The project provided actionable insights for customer targeting, product strategy, and campaign optimization.**
+
+
+
+## **11. Business Recommendations**
+
+
+
+* ### **🎯Customer Segmentation Strategy**
+
+  1. Focus acquisition efforts on Mid Adults (35–44).
+  2. Develop personalized campaigns for family-oriented customers.
+  3. Increase engagement among younger customer segments.
+
+
+
+* ### **🌍Geographic Growth Strategy**
+
+  1. Continue investment in Spain as the primary market.
+  2. Strengthen marketing efforts in Canada and Saudi Arabia.
+  3. Develop a growth strategy for underperforming markets.
+
+
+
+* ### 🛒**Product Strategy**
+
+  1. Use customer purchase behavior insights and category planning.
+  2. Increase visibility of underperforming product categories through targeted marketing initiatives.
+  3. Develop cross-category offerings to encourage broader customer engagement and increase overall basket value.
+
+
+
+**👉 Expected Impact:** Improved product mix, higher customer engagement, and more balanced revenue contribution across categories.
+
+
+
+* ### **📢Campaign Optimization Strategy**
+
+  1. Replicate successful elements from Campaign 4.
+  2. Reevaluate Campaign 2 targeting and messaging.
+  3. Create age-specific campaign strategies.
+
+
+
+* ### **💻Channel Strategy**
+
+  1. Improve online customer experience \& digital conversion rates
+  2. Convert high web traffic into purchases.
+  3. Balance store and digital channel investments.
+  4. Optimize web engagement funnel
+
+
+
+**👉 These recommendations can improve customer engagement, campaign effectiveness, and long-term revenue growth.**
+
+
+
+## **12. Project Deliverables \& Resources**
+
+
+
+### 🔗 **Power BI Live Dashboard-**[**Link**](https://app.powerbi.com/view?r=eyJrIjoiOGU1MGQ1OTctMmFiNC00NDNlLWI2YmUtYzNlNjQxMzY5ZGNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+###### 
+
+### **📊 Project Walkthrough Video**- **\[Watch Dashboard Demo](Dashboard/Dashboard.mp4)**
+
+
+
+### 📄 **Project Presentation-(Presentation/Project\_Presentation.pdf)**
+
+### 
+
+### **🖼️ Presentation Preview-**
+
+
+
+
+
+#### **Contact-**
+
+Abhilasha- Data Analyst
+
+📧 Email: connectspace.abhilasha@gmail.com
+
+
+
+
+
